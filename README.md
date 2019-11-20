@@ -1,5 +1,5 @@
 # MoyoBand
-#<b>1.	Zespoły</b>
+<b>1.	Zespoły</b>
 <b>I.	Aplikacja, baza danych</b>
 <b>Dawid Szewczyk (Team Leader)</b>
 Wojciech Kastelik
