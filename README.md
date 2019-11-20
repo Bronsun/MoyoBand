@@ -14,10 +14,10 @@ Projekt naukowy, realizowany przez SKN Telephoners
 <p><b>III.	Hardware<br>
   Mateusz Kozyra (Team Leader)</b><br>
 </p>
-
-2.	Obraz Raspbiana
+<h1> Ważne linki</h1>
+<h2>Obraz Raspbiana</h2>
 https://downloads.raspberrypi.org/raspbian_latest
 https://www.raspberrypi.org/documentation/installation/installing-images/README.md <- Instalacja
-3.	NRF52 DK 
+<h2>NRF52 DK</h2> 
 https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-DK
 
