@@ -1,18 +1,19 @@
 # MoyoBand
 Projekt naukowy, realizowany przez SKN Telephoners
 <h1>	Zespoły</h1>
-<p><b>I.	Aplikacja, baza danych
-  Dawid Szewczyk <br>(Team Leader)</b><br>
+<p><b>I.	Aplikacja, baza danych<br>
+  Dawid Szewczyk (Team Leader)</b><br>
   Wojciech Kastelik<br>
   Norbert Wyszkowski<br>
 </p>
-II.	Połączenie urządzeń
-  Radosław Sajdak (Project Leader)
-  Mateusz Broncel
-  Mateusz Ogonowski
-
-III.	Hardware
-  Mateusz Kozyra (Team Leader)
+<p><b>II.	Połączenie urządzeń<br>
+  Radosław Sajdak (Project Leader)</b>
+  Mateusz Broncel<br>
+  Mateusz Ogonowski<br>
+</p>
+<p><b>III.	Hardware<br>
+  Mateusz Kozyra (Team Leader)</b><br>
+</p>
 
 2.	Obraz Raspbiana
 https://downloads.raspberrypi.org/raspbian_latest
