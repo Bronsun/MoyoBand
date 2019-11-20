@@ -2,12 +2,12 @@
 Projekt naukowy, realizowany przez SKN Telephoners
 <h1>	Zespoły</h1>
 <p><b>I.	Aplikacja, baza danych
-  Dawid Szewczyk (Team Leader)</b>
-  Wojciech Kastelik
-  Norbert Wyszkowski
+  Dawid Szewczyk (Team Leader)</b><br>
+  Wojciech Kastelik<br>
+  Norbert Wyszkowski<br>
 </p>
 II.	Połączenie urządzeń
-   Radosław Sajdak (Project Leader)
+  Radosław Sajdak (Project Leader)
   Mateusz Broncel
   Mateusz Ogonowski
 
