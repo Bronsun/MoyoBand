@@ -1,18 +1,18 @@
 # MoyoBand
 1.	Zespoły
 
-I.	Aplikacja, baza danych
-Dawid Szewczyk (Team Leader)
-Wojciech Kastelik
-Norbert Wyszkowski
+  I.	Aplikacja, baza danych
+  Dawid Szewczyk (Team Leader)
+  Wojciech Kastelik
+  Norbert Wyszkowski
 
 II.	Połączenie urządzeń
-Radosław Sajdak (Project Leader)
-Mateusz Broncel
-Mateusz Ogonowski
+   Radosław Sajdak (Project Leader)
+  Mateusz Broncel
+  Mateusz Ogonowski
 
 III.	Hardware
-Mateusz Kozyra (Team Leader)
+  Mateusz Kozyra (Team Leader)
 
 2.	Obraz Raspbiana
 https://downloads.raspberrypi.org/raspbian_latest
