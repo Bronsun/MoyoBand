@@ -7,9 +7,9 @@ Projekt naukowy, realizowany przez SKN Telephoners
   Norbert Wyszkowski<br>
 </p>
 <p><b>II.	Połączenie urządzeń<br>
-  Radosław Sajdak (Project Leader)</b><br>
-  Mateusz Broncel<br>
-  Mateusz Ogonowski<br>
+    Radosław Sajdak (Project Leader)</b><br>
+    Mateusz Broncel<br>
+    Mateusz Ogonowski<br>
 </p>
 <p><b>III.	Hardware<br>
   Mateusz Kozyra (Team Leader)</b><br>
