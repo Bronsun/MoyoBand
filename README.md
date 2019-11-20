@@ -1,10 +1,10 @@
 # MoyoBand
 Projekt naukowy, realizowany przez SKN Telephoners
 <h1>	Zespoły</h1>
-<p><b>I.	Aplikacja, baza danych<br>
-  Dawid Szewczyk (Team Leader)</b><br>
-  Wojciech Kastelik<br>
-  Norbert Wyszkowski<br>
+<p><b>1.	Aplikacja, baza danych<br>
+  - Dawid Szewczyk (Team Leader)</b><br>
+  - Wojciech Kastelik<br>
+  - Norbert Wyszkowski<br>
 </p>
 <p><b>II.	Połączenie urządzeń<br>
     </t>Radosław Sajdak (Project Leader)</b><br>
