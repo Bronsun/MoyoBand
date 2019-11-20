@@ -6,13 +6,13 @@ Projekt naukowy, realizowany przez SKN Telephoners
   - Wojciech Kastelik<br>
   - Norbert Wyszkowski<br>
 </p>
-<p><b>II.	Połączenie urządzeń<br>
-    </t>Radosław Sajdak (Project Leader)</b><br>
-    Mateusz Broncel<br>
-    Mateusz Ogonowski<br>
+<p><b>2. Połączenie urządzeń<br>
+    - Radosław Sajdak (Project Leader)</b><br>
+    - Mateusz Broncel<br>
+    - Mateusz Ogonowski<br>
 </p>
-<p><b>III.	Hardware<br>
-  Mateusz Kozyra (Team Leader)</b><br>
+<p><b>3.	Hardware<br>
+    - Mateusz Kozyra (Team Leader)</b><br>
 </p>
 <h1> Ważne linki</h1>
 <h3>Obraz Raspbiana</h3>
