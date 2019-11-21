@@ -16,8 +16,7 @@ Projekt naukowy, realizowany przez SKN Telephoners
 </p>
 <h1> Ważne linki</h1>
 <h3>Obraz Raspbiana</h3>
-https://downloads.raspberrypi.org/raspbian_latest
-https://www.raspberrypi.org/documentation/installation/installing-images/README.md <- Instalacja
+https://drive.google.com/open?id=1si4IVB_sf_iMwfjbyeSwAmoi8SdFYtG9
 <h3>NRF52 DK</h3> 
 https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-DK
 
